@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Teleprompter</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 24 Sep 2026 20:44:07 +0200</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>Teleprompter 1.0.0</h3>
+<p>First release: notch teleprompter with voice following, slides, markers, rehearsal and memorize mode.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/NM193/teleprompter-releases/main/updates/Teleprompter-1.0.0.zip" length="1881796" type="application/octet-stream" sparkle:edSignature="+QXa9A1GXqVCQZsKdkybdvXPpeASvij+/Ww1Fuz+BuM6W6NmAo0WQOfTloT7lJHZ3lq8gezyMqdrSApn41geDw=="/>
+        </item>
+    </channel>
+</rss>
