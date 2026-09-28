@@ -3,6 +3,18 @@
     <channel>
         <title>Teleprompter</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Mon, 28 Sep 2026 11:28:35 +0200</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>Teleprompter 1.1.0</h3>
+<p>Screen recording: record the entire screen, one window or part of the screen, with your microphone, a draggable camera bubble, and a recording bar with pause, start over and discard. A new Recordings window to play, share and manage recordings (⌃⌥R to record). The overlay under the notch can now follow your mouse to another monitor (Settings → Overlay). Screen recording needs macOS 15 or later.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/NM193/teleprompter-releases/main/updates/Teleprompter-1.1.0.zip" length="2126166" type="application/octet-stream" sparkle:edSignature="gjvuzRF5uc/Yq4kyC0ooF1+sodT37ej67PnwlDvo/0gWoVq7bKsNjJSraOMcwN5c+p7n4PjSkkGvfl+QFfbTAA=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 24 Sep 2026 20:44:07 +0200</pubDate>
             <sparkle:version>43</sparkle:version>
