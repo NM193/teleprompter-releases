@@ -3,6 +3,18 @@
     <channel>
         <title>Teleprompter</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Thu, 01 Oct 2026 10:20:27 +0200</pubDate>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>Teleprompter 1.2.0</h3>
+<p>Notes mode: show a script as cue cards with tabs, questions, answers and reminders (great for interviews), switch with ⌃⌥1–6 and ⌃⌥↓/↑. A video editor: join recordings, trim, split, change speed, and give the video a background, padding, rounded corners and a 16:9, 9:16 or square shape. Zoom on clicks: hold ⌥ and click while recording to zoom in there. See-through overlay (⌃⌥T): faint and click-through. The overlay can follow your mouse to another monitor.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/NM193/teleprompter-releases/main/updates/Teleprompter-1.2.0.zip" length="2514774" type="application/octet-stream" sparkle:edSignature="0Tvf5++qhnbIwhoevuzsv6UsF8+DpxeGtnAPSlMyHO83jNqHu8lJ/u7fnLFkZO9p7+Pv95h9/MyZh15AHqZfDA=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Mon, 28 Sep 2026 11:28:35 +0200</pubDate>
             <sparkle:version>52</sparkle:version>
